@@ -1,6 +1,5 @@
 # US Airports Webmap
-**Made by: Jerome Orille**
-**Date: February 12th, 2021**
+**Made by: Jerome Orille** | **Date: February 12th, 2021**
 
 ## Introduction
 This project maps out airports in the United States.
@@ -11,7 +10,8 @@ The labels also indicate whether or not the airport has a cell tower.
 - Uses Leaflet to make a map, add in a basemap, a scale and a legend
 - Uses a custom CSS spreadsheet to style the legend
 - Uses Google API fonts to set a custom legend font
-- Creates airplane markers and state polygons using ajax by loading in GeoJSON files
+- Creates airplane markers and state polygons using Ajax by loading in GeoJSON files
+- Has clickable markers that tell whether or not an airport has a cell tower
 - Customizes airplane markers with Font-Awesome
 - Uses color ramps from Chroma
 - Appends colors to airplane markers using Jquery
